@@ -5,7 +5,7 @@
 💻 I’m a **full-stack developer** with experience in:
 - **Python & Django**
 - **Flutter**
-- Building REST APIs and web systems
+- **Building REST APIs and web systems**
 
 🔧 My tech interests include:
 - Mobile + Web app development 📱🌍
