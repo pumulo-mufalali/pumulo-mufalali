@@ -40,3 +40,6 @@
 ### 📊 GitHub Stats
 
 ![Pumulo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pumulo-mufalali&show_icons=true&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pumulo-mufalali&layout=compact&theme=github_dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pumulo-mufalali&theme=github-dark)
+
