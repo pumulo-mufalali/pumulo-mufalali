@@ -7,10 +7,10 @@
 - **Flutter**
 - **Building REST APIs and web systems**
 
-🔧 My tech interests include:
-- Mobile + Web app development 📱🌍
-- Fintech Engineering 💳
-- Systems troubleshooting and maintenance 🛠️
+🛠️🌍 My tech interests include:
+- Mobile + Web app development
+- Fintech Engineering
+- Systems troubleshooting and maintenance
 
 🧠 I love understanding how things work.
 
