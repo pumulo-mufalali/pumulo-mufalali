@@ -13,10 +13,10 @@
 - Software engineering 🌍
 - Systems troubleshooting and maintenance 🛠️
 
-🧠 I love understanding how things work — from writing backend logic to repairing computers and security systems.
+🧠 I love understanding how things work, from writing backend logic to repairing computers and security systems.
 
 🚀 Some cool stuff I’ve built:
-- **Englozi**: An English-to-Lozi translation app built with Flutter, focused on preserving local language through technology. Includes styled word details and smart formatting.
+- **Englozi**: An English-to-Lozi app built with Flutter that teaches the Lozi language through sections for names, phrases, and words.
 
 ### 🔧 Tech Stack
 
@@ -30,7 +30,7 @@
 
 ### 📫 Let's Connect
 
-- 🔗 [LinkedIn] (linkedin.com/in/pumulo-mufalali-73b93b24a)
+- 🔗 [LinkedIn](https://linkedin.com/in/pumulo-mufalali-73b93b24a)
 - 📞 0764899100 / 0971217311
 - 💼 Open to freelance and remote work opportunities
 - ✉️ Reach me at: **crispumulo@gmail.com**
