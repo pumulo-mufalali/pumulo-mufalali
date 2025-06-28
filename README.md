@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Pumulo Mufalali
+# Hi there 👋
 
 🎓 I'm a final-year **Computer Science** student at the **University of Zambia (UNZA)**, passionate about technology, hands-on problem-solving, and impactful solutions for everyday users.
 
