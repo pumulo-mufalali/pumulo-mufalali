@@ -30,7 +30,7 @@
 
 ### 📫 Let's Connect
 
-- 🔗 [LinkedIn]*(linkedin.com/in/pumulo-mufalali-73b93b24a)*
+- 🔗 [LinkedIn](*linkedin.com/in/pumulo-mufalali-73b93b24a*)
 - 📞 0764899100 / 0971217311
 - 💼 Open to freelance and remote work opportunities
 - ✉️ Reach me at: **crispumulo@gmail.com**
