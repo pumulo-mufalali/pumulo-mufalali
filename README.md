@@ -8,9 +8,8 @@
 - Building REST APIs and web systems
 
 🔧 My tech interests include:
+- Mobile + Web app development 📱🌍
 - Fintech Engineering 💳
-- Mobile + Web app development 📱🌐
-- Software engineering 🌍
 - Systems troubleshooting and maintenance 🛠️
 
 🧠 I love understanding how things work, from writing backend logic to repairing computers and security systems.
