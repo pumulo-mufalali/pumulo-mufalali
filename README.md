@@ -12,7 +12,7 @@
 - Fintech Engineering 💳
 - Systems troubleshooting and maintenance 🛠️
 
-🧠 I love understanding how things work, from writing backend logic to repairing computers and security systems.
+🧠 I love understanding how things work.
 
 🚀 Some cool stuff I’ve built:
 - **Englozi**: An English-to-Lozi app built with Flutter that teaches the Lozi language through sections for names, phrases, and words.
