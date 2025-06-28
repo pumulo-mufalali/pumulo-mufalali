@@ -15,7 +15,7 @@
 🧠 I love understanding how things work.
 
 🚀 Some cool stuff I’ve built:
-- **Englozi**: An English-to-Lozi app built with Flutter that teaches the Lozi language through sections for names, phrases, and words; with English and lozi pronounciation.
+- **Englozi**: An English-to-Lozi app built with flutter that teaches the Lozi language through sections for names, phrases, and words; with both English and Lozi pronunciations.
 - **CustomaKit**: A CRM web app for managing customers, built with Django, featuring a payment gateway and PostgreSQL database.
 
 ### 🔧 Tech Stack
