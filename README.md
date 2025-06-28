@@ -37,3 +37,6 @@
 - 💼 Open to freelance and remote work opportunities
 - ✉️ Reach me at: **crispumulo@gmail.com**
 
+### 📊 GitHub Stats
+
+![Pumulo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pumulomufalali&show_icons=true&theme=github_dark)
