@@ -17,6 +17,7 @@
 🚀 Some cool stuff I’ve built:
 - **Englozi**: An English-to-Lozi app built with flutter that teaches the Lozi language through sections for names, phrases, and words; with both English and Lozi pronunciations.
 - **CustomaKit**: A CRM web app for managing customers, built with Django, featuring a payment gateway and PostgreSQL database.
+- **HealthFirst**: A system that helps healthcare providers manage patient records, appointments, staff, and clinical workflows efficiently.
 
 ### 🔧 Tech Stack
 
