@@ -26,13 +26,6 @@ I’m a **full-stack developer** with experience in:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Let's Connect
-
-- 🔗 [LinkedIn](https://linkedin.com/in/pumulo-mufalali-73b93b24a)
-- 📞 0764899100 / 0971217311
-- 💼 Open to freelance and remote work opportunities
-- ✉️ Reach me at: **crispumulo@gmail.com**
-
 ### GitHub Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pumulo-mufalali&theme=github-dark)
