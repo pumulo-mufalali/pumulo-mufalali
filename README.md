@@ -28,5 +28,6 @@ I’m a **full-stack developer** with experience in:
 
 ### GitHub Stats
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pumulo-mufalali&layout=compact&theme=github-dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pumulo-mufalali&theme=github-dark)
 
