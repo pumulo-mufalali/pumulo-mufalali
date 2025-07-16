@@ -19,7 +19,7 @@ Some cool stuff I’ve built:
 - **CustomaKit**: A CRM web app for managing customers, built with Django, featuring a payment gateway and PostgreSQL database.
 - **HealthFirst**: A system that helps healthcare providers manage patient records, appointments, staff, and clinical workflows efficiently.
 
-### 🔧 Tech Stack
+### Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -31,14 +31,14 @@ Some cool stuff I’ve built:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 📫 Let's Connect
+### Let's Connect
 
 - 🔗 [LinkedIn](https://linkedin.com/in/pumulo-mufalali-73b93b24a)
 - 📞 0764899100 / 0971217311
 - 💼 Open to freelance and remote work opportunities
 - ✉️ Reach me at: **crispumulo@gmail.com**
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pumulo-mufalali&theme=github-dark)
 
