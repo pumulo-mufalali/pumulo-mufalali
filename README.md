@@ -19,9 +19,3 @@ I'm Pumulo Mufalali, A full-stack developer with experience in Python, Django, a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40" style="margin: 0 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" style="margin: 0 10px;" />
 </div>
-
-
-### GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pumulo-mufalali&theme=github-dark)
-
