@@ -17,6 +17,8 @@ I'm Pumulo Mufalali, a full-stack developer with experience in Python, Django, a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" style="margin: 0 10px;" />
 </div>
 
-## Languages Used
+## Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pumulo-mufalali&layout=compact&theme=radical)
+![Pumulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pumulo-mufalali&show_icons=true&theme=radical)
+
