@@ -19,4 +19,4 @@ I'm Pumulo Mufalali, a full-stack developer with experience in Python, Django, a
 
 ## Languages Used
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PumuloMufalali&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pumulo-mufalali&layout=compact&theme=radical)
