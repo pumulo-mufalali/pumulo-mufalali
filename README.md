@@ -19,6 +19,8 @@ I'm Pumulo Mufalali, a full-stack developer with experience in Python, Django, a
 
 ## Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pumulo-mufalali&layout=compact&theme=radical)
-![Pumulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pumulo-mufalali&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pumulo-mufalali&layout=compact&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pumulo-mufalali&show_icons=true&theme=radical" height="160" />
+</div>
 
