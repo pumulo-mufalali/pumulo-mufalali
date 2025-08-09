@@ -18,7 +18,7 @@ I'm Pumulo Mufalali, a full-stack developer with experience in Python, Django, a
 </div>
 
 <div align="center">
-  ## Stats
+  <h3>Stats</h3>h3
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pumulo-mufalali&layout=compact&theme=radical" height="160" />
   <img src="https://github-readme-stats.vercel.app/api?username=pumulo-mufalali&show_icons=true&theme=radical" height="160" />
 </div>
