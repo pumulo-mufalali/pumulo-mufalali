@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there...
 
 I'm Pumulo Mufalali, a full-stack developer with experience in Python, Django, and Flutter. I'm passionate about technology, hands-on problem solving, and creating meaningful solutions that make a real impact.
 
