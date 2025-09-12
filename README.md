@@ -1,6 +1,6 @@
 # Hi there...
 
-I'm Pumulo Mufalali, a full-stack developer with experience in Python, Django, and Flutter. I'm passionate about technology, hands-on problem solving, and creating meaningful solutions that make a real impact.
+I'm a systems engineering student at the university of Zambia who is passionate about leveraging technology to solve real-world problems. I enjoy building comprehensive applications and have a strong interest in fintech innovation.
 <div align="center">
   <h2> Technical Skill Set</h2>
   <div>
