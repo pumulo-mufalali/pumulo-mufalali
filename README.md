@@ -1,7 +1,8 @@
+<div align="center">
 # Hi there...
 
 I'm a systems engineering student at the university of Zambia who is passionate about leveraging technology to solve real-world problems. I enjoy building comprehensive applications and have a strong interest in fintech innovation.
-<div align="center">
+
   <h2>Tech Stack</h2>
   <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40" style="margin: 0 10px;" title="Django"/>
@@ -14,10 +15,9 @@ I'm a systems engineering student at the university of Zambia who is passionate 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" style="margin: 0 10px;" title="Docker"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" style="margin: 0 10px;" title="Figma"/>
   </div>
-</div>
 
-<div align="center">
-  <h3>Stats</h3>
+
+  <h2>Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pumulo-mufalali&layout=compact&theme=radical" height="160" />
   <img src="https://github-readme-stats.vercel.app/api?username=pumulo-mufalali&show_icons=true&theme=radical" height="160" />
 </div>
