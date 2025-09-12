@@ -2,7 +2,7 @@
 
 I'm a systems engineering student at the university of Zambia who is passionate about leveraging technology to solve real-world problems. I enjoy building comprehensive applications and have a strong interest in fintech innovation.
 <div align="center">
-  <h2> Technical Skill Set</h2>
+  <h2>Tech Stack</h2>
   <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40" style="margin: 0 10px;" title="Django"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40" style="margin: 0 10px;" title="Flutter"/>
