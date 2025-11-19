@@ -17,9 +17,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" style="margin: 0 10px;" title="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" style="margin: 0 10px;" title="Figma"/>
 </div>
-
-
-  <h2>Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pumulo-mufalali&layout=compact&theme=radical" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api?username=pumulo-mufalali&show_icons=true&theme=radical" height="160" />
 </div>
