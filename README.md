@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there...</h1>
-  I'm a systems engineering student at the University of Zambia who is passionate about leveraging technology to solve real-world problems. I enjoy building comprehensive applications and have a strong interest in fintech innovation.
+  I enjoy building comprehensive applications and have a strong interest in fintech innovation.
   
   <h2>Tech Stack</h2>
  <div>
