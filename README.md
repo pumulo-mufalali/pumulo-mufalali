@@ -1,6 +1,5 @@
 <div align="center">
   <h1>Hi there...</h1>
-  I enjoy building comprehensive applications and have a strong interest in fintech innovation.
   
   <h2>Tech Stack</h2>
  <div>
