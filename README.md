@@ -13,7 +13,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" style="margin: 0 10px;" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" style="margin: 0 10px;" title="Docker"/>
 </div>
-<div align="center">
+<!-- <div align="center">
   <img src="https://streak-stats.demolab.com?user=pumulo-mufalali&theme=dark&hide_border=true" />
-</div>
+</div> -->
 </div>
