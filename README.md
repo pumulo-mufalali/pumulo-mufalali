@@ -11,7 +11,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
-    <img src="https://cdn.simpleicons.org/amazonaws" width="40" />
+    <img src="https://cdn.simpleicons.org/amazonwebservices" width="40" />
     <img src="https://cdn.simpleicons.org/googlecloud" width="40" />
   </p>
 
