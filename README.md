@@ -13,7 +13,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
 </p>
-<!-- <div align="center">
-  <img src="https://streak-stats.demolab.com?user=pumulo-mufalali&theme=dark&hide_border=true" />
-</div> -->
+<div align="center">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pumulo-mufalali&layout=compact&theme=tokyonight)
+</div>
 </div>
